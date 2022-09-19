@@ -160,7 +160,11 @@
 								$submit.disabled = false;
 
 							// Show message.
-								$message._show('success', 'Thank you!');
+								$message._show('success', 'Logged!');
+
+								// Criar redirecionamento para a home
+								// onclick('home.html')
+
 								//$message._show('failure', 'Something went wrong. Please try again.');
 
 						}, 750);
