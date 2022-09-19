@@ -20,7 +20,7 @@ self.addEventListener('install', event => {
       .then(cache => cache.addAll([
 
         // Caminhos
-        
+
       ]))
   );
 });
