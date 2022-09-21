@@ -160,11 +160,7 @@
 				$submit.disabled = false;
 
 				// Show message.
-				$message._show('success', 'Logged!');
-
-				// Criar redirecionamento para a home
-				
-				onClick(window.location = 'homepage.html')	
+				$message._show('success', 'Logged!');	
 
 				//$message._show('failure', 'Something went wrong. Please try again.');
 
